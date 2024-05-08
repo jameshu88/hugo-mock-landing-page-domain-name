@@ -4,7 +4,7 @@
 
 Welcome to the website of RexAI, a website which I designed for my Cybersecurity AI-based startup concept in my CIS 3500 class at the University of Pennsylvania. This project involves developing a valuable real-world skill: building a scalable and cost-effective website from scratch using Hugo, a popular open-source static site generator.
 
-You can see it hosted live on GitHub Pages [here!](https://jameshu88.github.io/hugo-mock-landing-page/).
+This is an iteration of my previous website, but I have now implemented a Github workflow using tools provided to us in class to autodeploy my website as well as host it on an external domain. You can see it hosted live on GitHub Pages [here!](https://jameshu88.github.io/hugo-mock-landing-page/).
 
 ## Learning Objectives
 
