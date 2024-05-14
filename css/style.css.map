@@ -5,7 +5,7 @@
 	"sources": [
 		"assets/sass/main.scss",
 		"themes/hugo-bootstrap-theme/assets/sass/bootstrap/_functions.scss",
-		"themes/hugo-bootstrap-theme/assets/sass/variable-overrides.scss",
+		"assets/sass/variable-overrides.scss",
 		"themes/hugo-bootstrap-theme/assets/sass/bootstrap/_variables.scss",
 		"themes/hugo-bootstrap-theme/assets/sass/bootstrap/_variables-dark.scss",
 		"themes/hugo-bootstrap-theme/assets/sass/bootstrap/_maps.scss",
@@ -69,7 +69,7 @@
 		"themes/hugo-bootstrap-theme/assets/sass/bootstrap/helpers/_text-truncation.scss",
 		"themes/hugo-bootstrap-theme/assets/sass/bootstrap/helpers/_vr.scss",
 		"themes/hugo-bootstrap-theme/assets/sass/bootstrap/utilities/_api.scss",
-		"themes/hugo-bootstrap-theme/assets/sass/custom.scss",
+		"assets/sass/custom.scss",
 		"assets/sass/styles.scss"
 	],
 	"sourcesContent": [
