@@ -1,4 +1,4 @@
-baseURL = 'http://rexai.cloud/'
+baseURL = 'https://rexai.cloud/'
 title = "Rex AI"
 author = "James Huang"
 copyright = "Copyright James Huang"
